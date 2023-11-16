@@ -7,6 +7,13 @@ Christopher D. Manning, 144783904
 Chris Potts, 1741530
 Diyi Yang, 2022168
 Monica Lam, 39682108
+Tengyu Ma, 1901958
 
 # Google
 Denny Zhou, 65855107
+
+# Stanford
+Andrea Montanari, 145071265
+
+# Berkeley
+Peter Bartlett, 1745169
