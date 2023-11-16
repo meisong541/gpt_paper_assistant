@@ -36,4 +36,4 @@ jobs:
       with:
         name: arxiv-scanner-outputs
         path: out/
-        retention-days: 5
+        retention-days: 90
